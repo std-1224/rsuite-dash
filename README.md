@@ -10,11 +10,6 @@ Ease developers’ life with the React Suite 5. TypeScript will help with optimi
 
 Fork this repo to your namespace and clone to your local machine.
 
-```
-git clone git@github.com:<YOUR NAME>/rsuite-admin-template.git
-$ cd rsuite-admin-template
-```
-
 Install dependencies
 
 ```
@@ -31,4 +26,4 @@ npm run dev
 
 ## License
 
-MIT © [simonguo](https://github.com/simonguo)
+MIT © [std-1224](https://github.com/std-1224)
